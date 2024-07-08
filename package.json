@@ -1,0 +1,21 @@
+{
+  "name": "ur30-to-do-list",
+  "version": "1.0.0",
+  "description": "A todos list with Typescript,Node.js and Inquirer",
+  "main": "index.js",
+  "type": "module",
+  "bin": "list.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.14.9"
+  },
+  "dependencies": {
+    "inquirer": "^9.3.1"
+  }
+}
